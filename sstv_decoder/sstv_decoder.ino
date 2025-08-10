@@ -35,8 +35,8 @@
 #define PIN_DC   11
 #define SPI_PORT spi1
 
-#define ROTATION R0DEG
-//#define ROTATION R90DEG
+//#define ROTATION R0DEG
+#define ROTATION R90DEG
 //#define ROTATION R180DEG
 //#define ROTATION R270DEG
 //#define ROTATION MIRRORED0DEG
